@@ -15,7 +15,7 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 - [Anexos](#anexos)
 
 ## Descripción-avances
-Las características principales de las nanoestructuras candidatas se encuentran enumeradas a continuación
+Las características principales colocadas en columinas de las nanoestructuras candidatas se encuentran a continuación
 
 **Tabla 1. Péptidos representativos:**
   En la tabla 1. Péptidos representativos se encuentra las columnas: 
@@ -42,6 +42,9 @@ Las características principales de las nanoestructuras candidatas se encuentran
 * **Bibliografía: Referencias para encontrar todos los apartados de las columnas** 
 
 **Tabla comparativa de metodología de síntesis de nanopartículas polímericas para la entrega de ADN y ARN:**
+En la tabla comparativa de metodologías de síntesis de nanopartículas poliméricas para la entrega de ADN y ARN a las células se encuentran las siguientes columnas 
+
+
 **Anexo Tabla 1:**
 **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
 **Resumen Patente:**
