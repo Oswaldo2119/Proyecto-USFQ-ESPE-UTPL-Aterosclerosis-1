@@ -67,6 +67,7 @@ DNA peso molecular
 Secuncia antimiR33a: TGCAATGCAACTACAATGCAC
 
 https://www.bpforms.org/
+* **Segunda sección**
 
 **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
 **Resumen Patente:**
