@@ -20,7 +20,7 @@ Las características principales de las nanoestructuras candidatas se encuentran
 **Tabla 1. Péptidos representativos:**
   En la tabla 1. Péptidos representativos se encuentra las columnas: 
 * **Número: numeración de las secuencias**
-* **Tipo de péptido: pertenece alguno de los tipos de clasificación (Anfipático, Hidrofóbico y Poli catiónico)**
+* **Tipo de péptido:** pertenece alguno de los tipos de clasificación (Anfipático, Hidrofóbico y Poli catiónico)
 •	Nombre: como se puede encontrar la secuencia
 •	Secuencia: total de aminoácidos de la secuencia
 •	Número de aminoácidos
