@@ -18,6 +18,29 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 Las características principales de las nanoestructuras candidatas se encuentran enumeradas a continuación
 
 * **Tabla 1. Péptidos representativos:**
+  En la tabla 1. Péptidos representativos se encuentra las columnas: 
+•	Número: numeración de las secuencias
+•	Tipo de péptido: pertenece alguno de los tipos de clasificación (Anfipático, Hidrofóbico y Poli catiónico)
+•	Nombre: como se puede encontrar la secuencia
+•	Secuencia: total de aminoácidos de la secuencia
+•	Número de aminoácidos
+•	Principal función: basada en la búsqueda bibliográfica
+•	Formulación: perteneciente a como se forma los enlaces de la nanopartícula
+•	Modelos (i-vi):  Modelos base Preparación de nanopartículas de ARNm basadas en CPP.
+•	Carga: cantidad de carga de los péptidos, link en la parte de Word Anexos_Tabla1
+•	Moles: Cálculo de número de moles: ¿Cuántas moles hay en el # de carga del péptido?
+•	Peso molecular (g/mol): obtenidos en la página BACHEM(PEPTIDE AND AMINO ACIDS CALCULATOR), link en la parte de Word Anexos_Tabla1
+•	ug  PM	ug péptido: por cada 2ug necesarios cuantos ug de péptido necesito	
+•	starPep: Software de código abierto y fácil de usar para estudiar el espacio químico bioactivo de los CPPs utilizando representaciones complejas basadas en redes, agrupaciones y modelos de búsqueda de similitudes. Funcionalidades que permiten buscar péptidos similares a péptidos que ya se tenga usando búsqueda por similitud uniquery o multiquery.
+•	Longitud aa: escogidos basados en la aproximación de longitud de la columna de número de aminoácidos perteneciente a las secuencias peptídicas.
+•	Longitud aa (starPep no colocados): longitud de aminoácidos de los resultados de las coincidencias de las secuencias uniquery no colocados en la columna starPep 
+•	starPep/número total de coincidencias
+•	Principales funciones: resumen de funciones obtenido de las secuencias de la columna starPep
+•	NCBI: metodología de localizar la(s) secuencia(s) similar(es) de la columna Nombre en caso de que no encuentre coincidencias en el software starPep
+•	Número de aminoácidos: de la la(s) secuencia(s) similar(es) encontrada(s)
+•	Foldseek Search (Estructura de péptido a utilizar):  Plataforma web para posible predicción de estructura de nivel atómico de extremo a extremo de alta precisión directamente a partir de la secuencia individual de una proteína), link en la parte de Word Anexos_Tabla1.
+•	Bibliografía: Referencias para encontrar todos los apartados de las columnas 
+
 * **Tabla comparativa de metodología de síntesis de nanopartículas polímericas para la entrega de ADN y ARN:**
 * **Anexo Tabla 1:**
 * **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
