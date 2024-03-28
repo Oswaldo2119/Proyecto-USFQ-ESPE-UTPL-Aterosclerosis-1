@@ -59,11 +59,14 @@ En la tabla comparativa de metodologías de síntesis de nanopartículas polimé
 **Anexo Tabla 1:**
 Documento de word con las siguientes tres secciones
 * **Primera sección**
+
 Guía de cálculo para DNA carga
 
 DNA peso molecular
 
 Secuncia antimiR33a: TGCAATGCAACTACAATGCAC
+
+https://www.bpforms.org/
 
 **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
 **Resumen Patente:**
