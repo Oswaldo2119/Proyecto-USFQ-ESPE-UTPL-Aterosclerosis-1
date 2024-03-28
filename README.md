@@ -47,6 +47,15 @@ Las características principales colocadas en columinas de las nanoestructuras c
 
 En la tabla comparativa de metodologías de síntesis de nanopartículas poliméricas para la entrega de ADN y ARN a las células se encuentran las siguientes columnas 
 
+* **Tipo de polímero:** ¿Cuál tipo de nanopartícula se encuentra?
+* **Cadena:** ¿Cual tipo de cadena es ADN o ARN(ARNi, ARNm)?
+* **Otros ingredientes:** Cuales fueron los demás componentes utilizados en la formación de la nanopartícula
+* **Función:** Principal función obtenida desde la bibliografía
+* **Comentarios:** Comentarios adicionales que permitan entender o expresar las posibles inquietudes futuras de mejor forma conforme a lo revisado en bibliografía
+* **Referencias:** Referencias citadas en APA
+* **Links:** link(s) de las referencias
+* **Secuencia(Artículo/NCBI):** Información pertinente en la tabla 1. Péptidos representativos
+  
 **Anexo Tabla 1:**
 **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
 **Resumen Patente:**
