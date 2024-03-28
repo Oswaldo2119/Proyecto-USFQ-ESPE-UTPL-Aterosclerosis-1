@@ -69,6 +69,21 @@ Secuncia antimiR33a: TGCAATGCAACTACAATGCAC
 https://www.bpforms.org/
 * **Segunda sección**
 
+Péptido Carga
+
+Péptido peso molecular
+
+https://www.bachem.com/knowledge-center/peptide-calculator/
+
+Cálculos en excel: Cálculos de relación carga p-dna
+
+Péptidos representativos: los primero 4, son los primero 4 de la Tabla 1: Péptido representativos
+* **Tercera sección**
+
+* **Plataforma Foldseek Search Server:** Posible una predicción de estructura de nivel atómico de extremo a extremo de alta precisión directamente a partir de la secuencia individual de una proteína
+
+https://search.foldseek.com/search
+ 
 **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
 **Resumen Patente:**
 
