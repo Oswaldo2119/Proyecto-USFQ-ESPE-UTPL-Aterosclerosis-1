@@ -16,6 +16,9 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 
 ## Descripción-avances
 Las características principales colocadas en columinas de las nanoestructuras candidatas se encuentran a continuación
+**Estructura 3D Péptidos:**
+
+Estructuras 3D de los péptidos obtenidos de la plataforma de software libre: https://esmatlas.com/, a través del vínculo fold sequence (https://esmatlas.com/resources?action=fold) descargado en formato .pdb
 
 **Tabla 1. Péptidos representativos:**
 
@@ -85,8 +88,23 @@ Péptidos representativos: los primero 4, son los primero 4 de la Tabla 1: Pépt
 https://search.foldseek.com/search
  
 **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
+
+Pregunta directriz: "Por lo tanto se debe asegurar en el diseño que las nanopartículas circulen por largo tiempo dado que usualmente los macrófagos de la sangre remueven las nanopartículas.  También ahí hay un desafío para diferenciar ambos tipos de macrófagos, los circulantes de los que se han transformado en células espumosas"
+
+Documento resumen que responde a la pregunta directriz 
+
 **Resumen Patente:**
 
+Portador peptídico para administrar siRNA a células de mamíferos
+Resumen de la patente U.S. Patent No. 7,514,530
+
+* **Campo de la invención**
+
+**Verificación-anti-miR-33ayb:**
+
+Verificación por medio de alineaiento múltiple a través de Clustal Omega
+
+Documento:Word
 ## Debate
 
 ## Conclusiones
