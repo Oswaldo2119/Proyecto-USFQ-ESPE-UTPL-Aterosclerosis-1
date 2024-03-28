@@ -18,7 +18,9 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 Las características principales colocadas en columinas de las nanoestructuras candidatas se encuentran a continuación
 
 **Tabla 1. Péptidos representativos:**
+
   En la tabla 1. Péptidos representativos se encuentra las columnas: 
+  
 * **Número:** numeración de las secuencias
 * **Tipo de péptido:** pertenece alguno de los tipos de clasificación (Anfipático, Hidrofóbico y Poli catiónico)
 * **Nombre:** como se puede encontrar la secuencia
@@ -42,8 +44,8 @@ Las características principales colocadas en columinas de las nanoestructuras c
 * **Bibliografía: Referencias para encontrar todos los apartados de las columnas** 
 
 **Tabla comparativa de metodología de síntesis de nanopartículas polímericas para la entrega de ADN y ARN:**
-En la tabla comparativa de metodologías de síntesis de nanopartículas poliméricas para la entrega de ADN y ARN a las células se encuentran las siguientes columnas 
 
+En la tabla comparativa de metodologías de síntesis de nanopartículas poliméricas para la entrega de ADN y ARN a las células se encuentran las siguientes columnas 
 
 **Anexo Tabla 1:**
 **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
