@@ -17,10 +17,10 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 ## Descripción-avances
 Las características principales de las nanoestructuras candidatas se encuentran enumeradas a continuación
 
-* **Tabla 1. Péptidos representativos:**
+**Tabla 1. Péptidos representativos:**
   En la tabla 1. Péptidos representativos se encuentra las columnas: 
-•	Número: numeración de las secuencias
-•	Tipo de péptido: pertenece alguno de los tipos de clasificación (Anfipático, Hidrofóbico y Poli catiónico)
+* **Número: numeración de las secuencias**
+* **Tipo de péptido: pertenece alguno de los tipos de clasificación (Anfipático, Hidrofóbico y Poli catiónico)**
 •	Nombre: como se puede encontrar la secuencia
 •	Secuencia: total de aminoácidos de la secuencia
 •	Número de aminoácidos
@@ -41,10 +41,10 @@ Las características principales de las nanoestructuras candidatas se encuentran
 •	Foldseek Search (Estructura de péptido a utilizar):  Plataforma web para posible predicción de estructura de nivel atómico de extremo a extremo de alta precisión directamente a partir de la secuencia individual de una proteína), link en la parte de Word Anexos_Tabla1.
 •	Bibliografía: Referencias para encontrar todos los apartados de las columnas 
 
-* **Tabla comparativa de metodología de síntesis de nanopartículas polímericas para la entrega de ADN y ARN:**
-* **Anexo Tabla 1:**
-* **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
-* **Resumen Patente:**
+**Tabla comparativa de metodología de síntesis de nanopartículas polímericas para la entrega de ADN y ARN:**
+**Anexo Tabla 1:**
+**Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
+**Resumen Patente:**
 
 ## Debate
 
