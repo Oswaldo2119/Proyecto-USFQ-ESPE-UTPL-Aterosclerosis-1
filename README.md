@@ -15,7 +15,7 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 - [Anexos](#anexos)
 
 ## Descripción-avances
-Las características f{isico químicas principales de los elementos peptídicos se encuentran a reportadas en una tabla de excel en el archivo:
+Las características físico químicas principales de los elementos peptídicos se encuentran a reportadas en una tabla de excel en el archivo:
 **Estructura 3D Péptidos:**
 
 La predicción por modelamiento de las estructuras 3D de los péptidos  fueron obtenidos usando la plataforma de software libre: https://esmatlas.com/, a través del vínculo fold sequence (https://esmatlas.com/resources?action=fold) y cada estructura fue descargada en formato .pdb (se puede usar un software como VMD para visualizar las estructuras).
