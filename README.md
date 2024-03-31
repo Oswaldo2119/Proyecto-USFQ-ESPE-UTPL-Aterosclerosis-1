@@ -1,5 +1,5 @@
 # Selección de Nanoestructuras Candidatas
-Los avances se describirán de acuerda a la revisión bibliográfica de los componentes de la nanoestructura en el apartado presentes en tablas de Excel, documentos de Word, donde los hallazgos principales y sus implicaciones se encontrarán con detalle.
+Los avances se describirán de acuerda a la revisión bibliográfica de los componentes de la nanoestructura. Estos resultados estan reportados en tablas de Excel, documentos de Word, donde los hallazgos principales y sus implicaciones se encontrarán con detalle.
 
 Los problemas o discrepancias serán debidamente discutidas después de la revisión bibliográfica correspondiente dentro de las áreas de investigación conforme a un debate y plan de acción. 
 
@@ -15,10 +15,10 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 - [Anexos](#anexos)
 
 ## Descripción-avances
-Las características principales colocadas en columinas de las nanoestructuras candidatas se encuentran a continuación
+Las características f{isico químicas principales de los elementos peptídicos se encuentran a reportadas en una tabla de excel en el archivo:
 **Estructura 3D Péptidos:**
 
-Estructuras 3D de los péptidos obtenidos de la plataforma de software libre: https://esmatlas.com/, a través del vínculo fold sequence (https://esmatlas.com/resources?action=fold) descargado en formato .pdb
+La predicción por modelamiento de las estructuras 3D de los péptidos  fueron obtenidos usando la plataforma de software libre: https://esmatlas.com/, a través del vínculo fold sequence (https://esmatlas.com/resources?action=fold) y cada estructura fue descargada en formato .pdb (se puede usar un software como VMD para visualizar las estructuras).
 
 **Tabla 1. Péptidos representativos:**
 
@@ -65,7 +65,7 @@ Documento de word con las siguientes tres secciones
 
 Guía de cálculo para DNA carga
 
-DNA peso molecular
+Cálculo del peso molecular del ADN
 
 Secuncia antimiR33a: TGCAATGCAACTACAATGCAC
 
@@ -80,18 +80,18 @@ https://www.bachem.com/knowledge-center/peptide-calculator/
 
 Cálculos en excel: Cálculos de relación carga p-dna
 
-Péptidos representativos: los primero 4, son los primero 4 de la Tabla 1: Péptido representativos
+Péptidos representativos: los primero 4, son los primero 4 de la Tabla 1: Péptidos representativos
 * **Tercera sección**
 
-* **Plataforma Foldseek Search Server:** Posible una predicción de estructura de nivel atómico de extremo a extremo de alta precisión directamente a partir de la secuencia individual de una proteína
+* **Plataforma Foldseek Search Server:** Con este servidor fue posible una predicción de estructura de nivel atómico de extremo a extremo de alta precisión directamente a partir de la secuencia individual de una proteína
 
 https://search.foldseek.com/search
  
 **Resumen:"Aplicación de estrategias de terapia dirigida con administración de nanomedicinas para la aterosclerosis"**
 
-Pregunta directriz: "Por lo tanto se debe asegurar en el diseño que las nanopartículas circulen por largo tiempo dado que usualmente los macrófagos de la sangre remueven las nanopartículas.  También ahí hay un desafío para diferenciar ambos tipos de macrófagos, los circulantes de los que se han transformado en células espumosas"
+Problema directriz: "Se debe asegurar en el diseño que las nanopartículas circulen por largo tiempo dado que usualmente los macrófagos de la sangre remueven las nanopartículas.  También ahí hay un desafío para diferenciar ambos tipos de macrófagos, los circulantes de los que se han transformado en células espumosas"
 
-Documento resumen que responde a la pregunta directriz 
+Documento resumen que responde al problema directriz 
 
 **Resumen Patente:**
 
@@ -102,7 +102,7 @@ Resumen de la patente U.S. Patent No. 7,514,530
 
 **Verificación-anti-miR-33ayb:**
 
-Verificación por medio de alineaiento múltiple a través de Clustal Omega
+En los artículos se reportan las secuencias usadas o a veces simplemente que es una secuencia anti-MIR33, sin embargo hay dos MIR33, MIR33a y MIR33b.  Con la finalidad de verificación de cual es la diana principal presentada en los artículos se procedio a realizar alineaiento múltiple a través de Clustal Omega con las secuencias correspondientes.
 
 Documento:Word
 ## Debate
