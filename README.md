@@ -53,7 +53,7 @@ Las imágenes de las estructuras peptídicas visualizadas se observan a través 
 
   En la tabla 1. Péptidos representativos se encuentra las columnas:
   
-  https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Excel/Tabla1.%20P%C3%A9ptidos%20representativos%20administraci%C3%B3n%20de%20ARN.xlsx
+  Link tabla 1-excel: https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Excel/Tabla1.%20P%C3%A9ptidos%20representativos%20administraci%C3%B3n%20de%20ARN.xlsx
   
 * **Número:** numeración de las secuencias
 * **Tipo de péptido:** pertenece alguno de los tipos de clasificación (Anfipático, Hidrofóbico y Poli catiónico)
@@ -79,6 +79,8 @@ Las imágenes de las estructuras peptídicas visualizadas se observan a través 
 
 **Tabla comparativa de metodología de síntesis de nanopartículas polímericas para la entrega de ADN y ARN:**
 
+ Link tabla comparativa-excel:https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Excel/Tabla%20comparativa%20de%20metodolog%C3%ADas%20de%20sintesis%20de%20nanoparticulas%20polim%C3%A9ricas%20para%20la%20entrega%20de%20ADN%20y%20ARN%20a%20las%20c%C3%A9lulas.xlsx
+
 En la tabla comparativa de metodologías de síntesis de nanopartículas poliméricas para la entrega de ADN y ARN a las células se encuentran las siguientes columnas 
 
 * **Tipo de polímero:** ¿Cuál tipo de nanopartícula se encuentra?
@@ -91,6 +93,8 @@ En la tabla comparativa de metodologías de síntesis de nanopartículas polimé
 * **Secuencia(Artículo/NCBI):** Información pertinente en la tabla 1. Péptidos representativos
 
 **Calculos de relación carga p-dna**
+
+ Link tabla cálculo-excel:https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Excel/Calculos%20de%20relaci%C3%B3n%20carga%20p-dna.xlsx
 
 Libro de excel correspondiente a los cálculos de la Tabla 1. Péptidos representativos, correspindente a las columnas: moles, ug PM y ug péptido
 
