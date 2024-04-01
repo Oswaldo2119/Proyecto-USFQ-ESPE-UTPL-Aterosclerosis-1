@@ -51,7 +51,9 @@ Las imágenes de las estructuras peptídicas visualizadas se observan a través 
 
 **Tabla 1. Péptidos representativos:**
 
-  En la tabla 1. Péptidos representativos se encuentra las columnas: 
+  En la tabla 1. Péptidos representativos se encuentra las columnas:
+  
+  https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Excel/Tabla1.%20P%C3%A9ptidos%20representativos%20administraci%C3%B3n%20de%20ARN.xlsx
   
 * **Número:** numeración de las secuencias
 * **Tipo de péptido:** pertenece alguno de los tipos de clasificación (Anfipático, Hidrofóbico y Poli catiónico)
