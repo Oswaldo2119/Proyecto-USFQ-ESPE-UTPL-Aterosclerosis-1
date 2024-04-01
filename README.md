@@ -23,6 +23,12 @@ Las características físico químicas principales de los elementos peptídicos 
 
 La predicción por modelamiento de las estructuras 3D de los péptidos  fueron obtenidos usando la plataforma de software libre: https://esmatlas.com/, a través del vínculo fold sequence (https://esmatlas.com/resources?action=fold) y cada estructura fue descargada en formato .pdb (se puede usar un software como VMD para visualizar las estructuras).
 
+**Software VMD:**
+
+Programa de modelamiento molecular y visualización de estructuras
+
+Las imágenes de las estructuras peptídicas visualizadas se observan a través de una captura de pantalla y por medio de la tabla las características seleccionadas: los elementos, los residuos (aminoácidos) y la distancia entre átomos de los elementos seleccionados.
+
 **Péptido RALA:**
 
 ![](https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Estructuras3D_p%C3%A9ptidos_im%C3%A1genes/Captura%20de%20pantalla%20P%C3%A9ptido%20RALA.png)
