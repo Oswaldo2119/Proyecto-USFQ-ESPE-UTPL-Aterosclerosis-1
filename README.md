@@ -24,19 +24,24 @@ Las características físico químicas principales de los elementos peptídicos 
 La predicción por modelamiento de las estructuras 3D de los péptidos  fueron obtenidos usando la plataforma de software libre: https://esmatlas.com/, a través del vínculo fold sequence (https://esmatlas.com/resources?action=fold) y cada estructura fue descargada en formato .pdb (se puede usar un software como VMD para visualizar las estructuras).
 
 **Péptido RALA:**
-![]()
+
+![](https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Estructuras3D_p%C3%A9ptidos_im%C3%A1genes/Captura%20de%20pantalla%20P%C3%A9ptido%20RALA.png)
 
 **Péptido OligoArg:**
-![]()
+
+![](https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Estructuras3D_p%C3%A9ptidos_im%C3%A1genes/Captura%20de%20pantalla%20P%C3%A9ptido%20OligoArg.png)
 
 **Péptido PFVYLI:**
-![]()
+
+![](https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Estructuras3D_p%C3%A9ptidos_im%C3%A1genes/Captura%20de%20pantalla%20P%C3%A9ptido%20PFVYLI.png)
 
 **Péptido LEDE:**
-![]()
+
+![](https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Estructuras3D_p%C3%A9ptidos_im%C3%A1genes/Captura%20de%20pantalla%20P%C3%A9ptido%20LEDE.png)
 
 **Péptido MPG:**
-![]()
+
+![](https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Estructuras3D_p%C3%A9ptidos_im%C3%A1genes/Captura%20de%20pantalla%20P%C3%A9ptido%20MPG.png)
 
 **Tabla 1. Péptidos representativos:**
 
