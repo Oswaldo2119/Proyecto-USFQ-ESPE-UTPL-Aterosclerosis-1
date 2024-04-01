@@ -96,7 +96,7 @@ En la tabla comparativa de metodologías de síntesis de nanopartículas polimé
 
  Link tabla cálculo-excel:https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Excel/Calculos%20de%20relaci%C3%B3n%20carga%20p-dna.xlsx
 
-Libro de excel correspondiente a los cálculos de la Tabla 1. Péptidos representativos, correspindente a las columnas: moles, ug PM y ug péptido
+Libro de excel correspondiente a los cálculos de la Tabla 1. Péptidos representativos, correspondiente a las columnas: moles, ug PM y ug péptido
 
 * **¿ug Proteína?:** Los complejos GET-pDNA se formularon en tres proporciones de carga de GET a pDNA (CR 3:1, 4:1 y 5:1, denominados simplemente CR 3, 4 y 5 respectivamente) con la dosis de pDNA permaneciendo constante en 2 μg. 
   
