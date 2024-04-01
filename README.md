@@ -7,7 +7,7 @@ Las conclusiones de acuerdo con las etapas de avance del proyecto serán colocad
 
 Anexo se encuentran todos los artículos científicos revisados hasta el momento.
 
-![](https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Estructuras3D_p%C3%A9ptidos_im%C3%A1genes/Captura%20de%20pantalla%20P%C3%A9ptido%20RALA.png)
+![](https://github.com/M4rl0nR3c4lde/Nanoesctructuras-Candidatas/blob/master/Estructuras3D_p%C3%A9ptidos_im%C3%A1genes/Captura%20de%20pantalla%20Completa%20P%C3%A9ptido%20MPG.png)
 
 **Tabla de contenidos** 
 
