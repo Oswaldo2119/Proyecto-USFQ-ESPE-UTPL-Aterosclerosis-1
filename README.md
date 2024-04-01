@@ -17,7 +17,7 @@ Anexo se encuentran todos los artículos científicos revisados hasta el momento
 - [Anexos](#anexos)
 
 ## Descripción-avances
-Las características físico químicas principales de los elementos peptídicos se encuentran a reportadas en una tabla de excel en el archivo: Tabla 1. Péptidos representativos:
+Las características físico químicas principales de los elementos peptídicos se encuentran a reportadas en la tabla de excel en el archivo: "Tabla 1. Péptidos representativos"
 
 **Estructura 3D Péptidos:**
 
